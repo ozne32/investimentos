@@ -12,7 +12,7 @@ Tem duas coisas que são importantes ressaltar:
 
 
 ## Login e Sign-up
-Neste projeto eu utilizei o recurso de sessions para conseguir fazer com que o usuário consiga logar na aplicação, porém pela falta de um banco de dados ele não consegue fazer o sign-up. Porém tem uma interface que é um pouco mais dinâmica trazendo recursos como, a reposta caso você coloque alguma informação errada:
+Neste projeto eu utilizei o recurso de sessions para conseguir fazer com que o usuário consiga logar na aplicação, porém pela falta de um banco de dados ele não consegue fazer o sign-up. Entretanto ainda com o recurso das sessions que, ele traz uma interface que é um pouco mais dinâmica trazendo recursos como, a reposta caso você coloque alguma informação errada, ou tente acessar uma página sem a autorização devida:
 ![image](https://github.com/ozne32/investimentos/assets/84781872/1232a0a7-913b-48fa-8105-2e3338e75624)
 e caso você tente navegar para uma página que você não poderia, sem antes fazer o login:
 ![image](https://github.com/ozne32/investimentos/assets/84781872/b47459db-8449-46a7-bab0-3eb71d83a834)
